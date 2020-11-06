@@ -2,7 +2,7 @@
 
 Web-приложение можно посмотреть по ссылке 
 
-podcast--app-bed5a.web.app
+https://podcast--app-bed5a.web.app/
 
 Приложение позволяет задавать вопросы
 
